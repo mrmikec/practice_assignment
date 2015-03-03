@@ -1,5 +1,6 @@
 practice_assignment
 ===================
+# This refers to the Coursera Johns Hopkins R Programming course Week 1 exercise
 
 There's been a lot of discussion regarding the significant gap between the lectures from weeks 1 and 2 and Programming Assignment 1 in the R Programming class on Coursera.  
 
